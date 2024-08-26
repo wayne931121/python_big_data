@@ -52,5 +52,6 @@ name: 檔案名稱
 name: 檔案名稱
 
 # 參考資料
+https://www.w3schools.com/python/python_file_handling.asp<br>
 https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files<br>
 https://docs.python.org/3/library/functions.html#open
