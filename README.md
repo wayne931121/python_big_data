@@ -50,3 +50,7 @@ name: 檔案名稱
 ## remove(name)
 刪除指定檔案(os.remove(name))<br>
 name: 檔案名稱
+
+# 參考資料
+https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files<br>
+https://docs.python.org/3/library/functions.html#open
